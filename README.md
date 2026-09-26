@@ -1,7 +1,8 @@
-# Fortnite Squad Stats
+# Muse Fortnite
 
-Fun stat breakdowns for a casual Fortnite squad — K/D, win rates, mode splits,
-squad awards, and loving roasts. Powered by the [Tracker Network API](https://tracker.gg/developers).
+A Muse connector for Fortnite stats — fun squad breakdowns: K/D, win rates,
+mode splits, squad awards, and loving roasts. Powered by the
+[Tracker Network API](https://tracker.gg/developers).
 
 ## Setup
 
